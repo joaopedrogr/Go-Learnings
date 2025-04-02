@@ -4,7 +4,6 @@
 The Go Learnings project is a structured collection of Go programming modules covering fundamental to advanced topics. This repository is designed to help developers build a strong foundation in Go and explore its capabilities in concurrency, web development, and database interactions.
 
 Key topics covered:
-
 - Core Go Concepts: Data types, functions, and control structures.
 - Advanced Features: Concurrency, Goroutines, and Channels.
 - Database Connectivity: SQL database operations using Go.
